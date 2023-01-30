@@ -6,3 +6,15 @@
 .App > div {
   margin-right: 50px;
 }
+.error {
+  color: red;
+}
+.errorBorder{
+  border: 2px solid red;
+}
+.checked{
+  background: #d16ae3;
+}
+.opacity{
+  opacity: 0.33;
+}
