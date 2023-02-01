@@ -12,7 +12,7 @@
 .errorBorder{
   border: 2px solid red;
 }
-.checked{
+.active-filter{
   background: #d16ae3;
 }
 .opacity{
